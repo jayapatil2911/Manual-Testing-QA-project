@@ -78,8 +78,6 @@ SauceDemo-Manual-Testing-QA-Project
 ├── 07-Test-Execution
 │   └── Test-Execution-Summary.xlsx
 │
-├
-│
 └── README.md
 
 ## 🧪 **Modules Covered**
