@@ -83,9 +83,9 @@ SauceDemo-Manual-Testing-QA-Project
 └── README.md
 
 ----
-## 🧪 **Modules Covered**
+##🧪 Modules Covered
 
-### 🔐 Authentication Module
+###🔐 Authentication Module
 
 - User Login
 - Valid Login
