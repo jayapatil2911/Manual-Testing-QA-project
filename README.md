@@ -82,7 +82,7 @@ SauceDemo-Manual-Testing-QA-Project
 │
 └── README.md
 
-----
+---
 ##🧪 Modules Covered
 
 ###🔐 Authentication Module
