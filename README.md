@@ -83,9 +83,11 @@ SauceDemo-Manual-Testing-QA-Project
 └── README.md
 
 ---
-## 🧪 Modules Covered
+---
 
-###🔐 Authentication Module
+## 🧪 **Modules Covered**
+
+### 🔐 **Authentication Module**
 
 - User Login
 - Valid Login
@@ -95,7 +97,7 @@ SauceDemo-Manual-Testing-QA-Project
 - Login Error Message Validation
 - Logout
 
-### 🛍️ Products Module
+### 🛍️ **Products Module**
 
 - Product Listing
 - Product Name Validation
@@ -109,7 +111,7 @@ SauceDemo-Manual-Testing-QA-Project
   - Price Low to High
   - Price High to Low
 
-### 🛒 Cart Module
+### 🛒 **Cart Module**
 
 - Add Product to Cart
 - Add Multiple Products to Cart
@@ -119,7 +121,7 @@ SauceDemo-Manual-Testing-QA-Project
 - Continue Shopping
 - Empty Cart Validation
 
-### 💳 Checkout Module
+### 💳 **Checkout Module**
 
 - Checkout with Valid Customer Details
 - First Name Validation
@@ -131,7 +133,7 @@ SauceDemo-Manual-Testing-QA-Project
 - Order Completion
 - Order Confirmation
 
-### 👤 User-Specific Testing
+### 👤 **User-Specific Testing**
 
 - `standard_user`
 - `locked_out_user`
@@ -144,7 +146,7 @@ Testing was performed using different predefined users to identify user-specific
 
 ---
 
-## 🎯 Testing Types
+## 🎯 **Testing Types**
 
 - Functional Testing
 - UI Testing
@@ -159,7 +161,7 @@ Testing was performed using different predefined users to identify user-specific
 
 ---
 
-## 🛠 Tools Used
+## 🛠️ **Tools Used**
 
 - Manual Testing
 - Microsoft Excel
@@ -171,7 +173,7 @@ Testing was performed using different predefined users to identify user-specific
 
 ---
 
-## 📊 Project Goal
+## 📊 **Project Goal**
 
 To build a complete **Manual Testing QA portfolio project** using the SauceDemo web application and demonstrate industry-standard software testing practices.
 
@@ -195,20 +197,25 @@ The project is designed to demonstrate practical QA skills that can be showcased
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 **Author**
 
 **Jaya Patil**
 
-Software Test Engineer | QA Engineer
+**Software Test Engineer | QA Engineer**
 
 Manual Testing | Automation Testing | Selenium | Java | API Testing | SQL
 
 Building quality-focused QA testing projects and demonstrating practical Software Testing skills.
 
-📬 Connect With Me
-LinkedIn: https://www.linkedin.com/in/jaya-patil-2148022ab/
-GitHub: https://github.com/jayapatil2911
-Email: jayapatil2911@gmail.com
+---
 
+## 📬 **Connect With Me**
 
+**LinkedIn:**  
+https://www.linkedin.com/in/jaya-patil-2148022ab/
 
+**GitHub:**  
+https://github.com/jayapatil2911
+
+**Email:**  
+jayapatil2911@gmail.com
